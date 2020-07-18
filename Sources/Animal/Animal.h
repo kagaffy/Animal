@@ -7,5 +7,5 @@
 
 #import <UIKit/UIKit.h>
 
-//FOUNDATION_EXPORT double FloatingPanelVersionNumber;
-//FOUNDATION_EXPORT const unsigned char FloatingPanelVersionString[];
+FOUNDATION_EXPORT double AnimalVersionNumber;
+FOUNDATION_EXPORT const unsigned char AnimalVersionString[];
