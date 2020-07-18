@@ -5,8 +5,7 @@
 //  Created by Yoshiki Tsukada on 2020/07/18.
 //
 
-#ifndef Animal_h
-#define Animal_h
+#import <UIKit/UIKit.h>
 
-
-#endif /* Animal_h */
+//FOUNDATION_EXPORT double FloatingPanelVersionNumber;
+//FOUNDATION_EXPORT const unsigned char FloatingPanelVersionString[];
